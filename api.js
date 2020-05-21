@@ -74,7 +74,7 @@ const getUser = (req, res) => {
             name: 'umair'
         },
         {
-            PIAIC245: 'PIAIC245',
+            AXIOM458: 'AXIOM458',
             name: 'osama'
         }
     ]
