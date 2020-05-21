@@ -70,7 +70,7 @@ const deleteUser = async(req, res) => {
 
 const getUser = (req, res) => {
     const users = [{
-            PIAIC123: 'PIAIC123',
+            AXIOM123: 'AXIOM123',
             name: 'umair'
         },
         {
